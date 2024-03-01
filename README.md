@@ -11,7 +11,7 @@ In this Session, I will explain and showcase - __Diagnostic Settings Architectur
 
 | __SAMPLE SCREENSHOT: HOW THE ARCHITECTURE MATRIX LOOKS:-__ |
 | --------- |
-|  |
+| ![image](https://github.com/arindam0310018/01-Mar-2024-DevOps__Diagnostic_Settings_Architecture_for_IaC/assets/29681063/37df7678-4e67-4227-8593-a27821807a96) |
 
 Each Azure Services may or may not have Diagnostic settings. Diagnostic settings indicates that which logs will be shipped to which destination.
 
