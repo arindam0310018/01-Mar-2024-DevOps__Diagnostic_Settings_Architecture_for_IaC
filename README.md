@@ -9,6 +9,10 @@ In this Session, I will explain and showcase - __Diagnostic Settings Architectur
 | In this Article, I am __NOT__ covering Diagnostic Settings Architecture of all available Azure Services but the ones which I have worked upon. |
 | __From the below code repository, please download the excel sheet named "Azure-Diagonostic-Settings-Architecture-v1.0.xlsx" which details the Diagnostic settings of each Azure Services, I have worked upon and the destination where it should be shipped to.__ |
 
+| __SAMPLE SCREENSHOT: HOW THE ARCHITECTURE MATRIX LOOKS:-__ |
+| --------- |
+| ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i5c6zdd2ejsejkltdp3t.png) |
+
 Each Azure Services may or may not have Diagnostic settings. Diagnostic settings indicates that which logs will be shipped to which destination.
 
 | __WHY DIAGNOSTIC SETTINGS ARCHITECTURE IS IMPORTANT:-__ |
